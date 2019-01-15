@@ -1,4 +1,4 @@
-# APPENDFILE: save dataset in LaTeX format.
+# APPENDFILE: append two text files together.
 
 - Current version: `1.0.1 05may2015`
 - Jump to: [`updates`](#recent-updates) [`install`](#install) [`description`](#description) [`author`](#author)
